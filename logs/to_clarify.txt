@@ -1,0 +1,2 @@
+1. edge attributes?
+2. weights train torch

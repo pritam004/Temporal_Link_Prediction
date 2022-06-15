@@ -1,0 +1,17 @@
+egn-o Log file: log/log_sbm50_link_pred_egcn_o_20220611010231_r0.log
+egcn-h log/log_sbm50_link_pred_egcn_h_20220611020756_r0.log
+
+with feat
+
+egcn-h: Log file: log/log_sbm50_link_pred_egcn_h_20220612002254_r0.log
+log/log_sbm50_link_pred_egcn_h_20220613014305_r0.log
+egcn-o: log/log_sbm50_link_pred_egcn_o_20220612015740_r0.log
+
+gru-a : Log file: log/log_sbm50_link_pred_gruA_20220612022618_r0.log log/log_sbm50_link_pred_gruA_20220612031354_r0.log
+gru-b:
+gcn-: log/log_sbm50_link_pred_gcn_20220613002303_r0.log
+
+
+from 1-----
+
+egcn-h :log/log_sbm50_link_pred_egcn_h_20220613031458_r0.log
